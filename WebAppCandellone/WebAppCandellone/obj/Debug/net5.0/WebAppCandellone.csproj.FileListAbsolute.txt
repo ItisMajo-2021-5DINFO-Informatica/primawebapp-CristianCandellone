@@ -32,3 +32,4 @@ C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCa
 C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCandellone\obj\Debug\net5.0\WebAppCandellone.RazorTargetAssemblyInfo.cs
 C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCandellone\obj\Debug\net5.0\WebAppCandellone.Views.pdb
 C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCandellone\obj\Debug\net5.0\WebAppCandellone.csproj.CopyComplete
+C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCandellone\obj\Debug\net5.0\Razor\Pages\Risposta.cshtml.g.cs
