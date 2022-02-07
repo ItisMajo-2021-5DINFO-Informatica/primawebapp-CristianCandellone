@@ -21,3 +21,14 @@ C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCa
 C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCandellone\obj\Debug\net5.0\ref\WebAppCandellone.dll
 C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCandellone\obj\Debug\net5.0\WebAppCandellone.pdb
 C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCandellone\obj\Debug\net5.0\WebAppCandellone.genruntimeconfig.cache
+C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCandellone\bin\Debug\net5.0\WebAppCandellone.Views.dll
+C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCandellone\bin\Debug\net5.0\WebAppCandellone.Views.pdb
+C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCandellone\obj\Debug\net5.0\WebAppCandellone.RazorAssemblyInfo.cache
+C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCandellone\obj\Debug\net5.0\WebAppCandellone.RazorAssemblyInfo.cs
+C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCandellone\obj\Debug\net5.0\WebAppCandellone.TagHelpers.input.cache
+C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCandellone\obj\Debug\net5.0\WebAppCandellone.TagHelpers.output.cache
+C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCandellone\obj\Debug\net5.0\WebAppCandellone.RazorCoreGenerate.cache
+C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCandellone\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCandellone\obj\Debug\net5.0\WebAppCandellone.RazorTargetAssemblyInfo.cs
+C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCandellone\obj\Debug\net5.0\WebAppCandellone.Views.pdb
+C:\Users\Utente\Desktop\primawebapp-CristianCandellone\WebAppCandellone\WebAppCandellone\obj\Debug\net5.0\WebAppCandellone.csproj.CopyComplete
