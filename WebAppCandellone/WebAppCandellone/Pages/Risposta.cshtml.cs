@@ -9,10 +9,13 @@ namespace WebAppCandellone.Pages
 {
     public class RispostaModel : PageModel
     {
-        public string TestoUtente { get; set; }
-        public void OnGet(string testo)
+        public string Cognome { get; set; }
+
+        public string Nome { get; set; }
+        public void OnGet(string cognome, string nome)
         {
-            TestoUtente = testo;
+            Cognome = cognome;
+            Nome = nome;
         }
     }
 }
